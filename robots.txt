@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portlandpestcontrolsquad.com/sitemap.xml
